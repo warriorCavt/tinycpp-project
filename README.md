@@ -14,8 +14,8 @@ Steps:
 
 ---
 Steps (with editor, e.g. VS Code):
-4. Open Developer Command Prompt for [Visual Studio]
-5. Navigate to source location
-6. Open editor there, e.g. `code .`
-7. Open editor's powershell environment
-8. Run `.\scripts\build` or `.\scripts\run` while in source directory 
+1. Open Developer Command Prompt for [Visual Studio]
+2. Navigate to source location
+3. Open editor there, e.g. `code .`
+4. Open editor's powershell environment
+5. Run `.\scripts\build` or `.\scripts\run` while in source directory 
